@@ -1,6 +1,6 @@
 We're hiring!!
 
-# Front-End Developer
+# Senior Front-End Developer
 
 ## Job Overview
 
