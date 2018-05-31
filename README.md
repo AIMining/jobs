@@ -9,13 +9,9 @@ The Front-End Developer role within the Flowchain team at Taipei is a mid-senior
 ## Responsibilities
 
 * Represent Flowchain professionally in both client and team situations
-
 * Good understanding on the technical requirements on each of our engagements to facilitate both communications and the most appropriate solution design
-
 * Collaborative design and development of the appropriate software
-
 * Detailed design, development and unit / integration testing utilizing the appropriate methodologies, technology and tools
-
 * Ability to deliver high quality software to the team and work independently with a focus on first-time quality without requiring excessive review by more senior team members
 
 ## Qualifications
