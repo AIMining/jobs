@@ -35,3 +35,9 @@ The Front-End Developer role within the Flowchain team at Taipei is a mid-senior
 * Node.js
 * Understanding of the MVC/MVVM/Flux architecture patterns
 * Familiarity with a distributed source control system such as Git
+
+## Salary Package
+
+* NTD$ 1,200,000 / year
+* Bonus
+
