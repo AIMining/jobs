@@ -5,6 +5,7 @@
 
 * Part-time
 * Work with the Flowchain Foundation team
+* 歡迎在校同學加入
 
 ## Qualifications
 
@@ -22,5 +23,5 @@
 ## Salary Package
 
 * 研究費：NT$ 30,000 ~ NT$ 75,000（根據貢獻調整）
-* 研究發表：凡論文被國外 conference 接受者，由基金會全額補充機票與國外差旅費
+* 研究發表：凡論文被國外 conference 接受者，由基金會全額補助機票與國外差旅費
 
