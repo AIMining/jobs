@@ -1,5 +1,5 @@
 
-![](https://flowchain.co/static/logo-text@128.png)
+![](https://flowchain.co/static/logo/logo-text.png)
 
 # Researcher
 
