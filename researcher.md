@@ -1,6 +1,16 @@
 
 ![](https://flowchain.co/static/logo/logo-text.png)
 
+# Introduction
+
+Flowchain Foundation research areas of 2020 includes:
+
+* Stablecoins - cryptocurrency baskets
+* Fully homomorphic non-interactive proof systems
+* Flexible byzantine fault tolerance
+* Formalization of distributed ledgers
+* Recursive proof composition
+
 # Researcher
 
 * Flowchain 全職研究員
