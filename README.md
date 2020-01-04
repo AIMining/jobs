@@ -1,6 +1,6 @@
 We're hiring!!
 
-![](（https://flowchain.co/static/logo/logo-text.png)
+![](https://flowchain.co/static/logo/logo-text.png)
 
 ## Full-Time Jobs
 
