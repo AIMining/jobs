@@ -24,7 +24,7 @@ Flowchain Foundation research areas of 2020 includes:
 * 熟悉資料結構與演算法
 * 熟悉機率論與離散數學
 * 軟體架構設計理論有濃厚興趣者
-* 具備創新管理經驗或知識
+* 具備創新管理經驗或知識，以及優異的簡報製作與表達能力
 * 具英文科技論文寫作能力：過去 3 年內，曾在國外 Conference/Journal 發表相關論文
 * 熟悉至少一種程式語言：Go/Javascript/Python/C/C++/Java
 * 熟悉 Git 管理流程與開源社群文化
