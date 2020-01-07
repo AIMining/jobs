@@ -4,5 +4,5 @@ We're hiring!!
 
 ## Full-Time Jobs
 
-* [Blockchain Researchers](researcher.md)
-* [量化研究與交易員Quantitative Researcher & Traders](quant.md)
+* [區塊鏈研究員 Blockchain Researcher](researcher.md)
+* [量化研究與交易員 Quantitative Researcher & Traders](quant.md)
